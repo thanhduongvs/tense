@@ -33,11 +33,20 @@
 - `Wh- + is/are/am (not) + S + N/adj ?`
 - `Wh- + do/does (not) + S + V(infinitive) ?`
 
-## 2. Use (Sử dụng)
+## 2. Signal words (Dấu hiệu nhận biết)
 
-## 3. Signal words (Dấu hiệu nhận biết)
+## 3. Use (Sử dụng)
+- Nói về sự thật, chân lý hiển nhiên:
+  - The sun sets in the west.
+  - Ten times ten makes one hundred. (10 x 10 = 100)
 
-https://dictionary.cambridge.org/grammar/british-grammar/tenses-and-time
+- Nói về một thói quen lặp đi lặp lại hàng ngày:
+  - I alway get up at 6.am.
 
-https://ielts-fighter.com/tin-tuc/HIEN-TAI-DON-Present-Simple-Cong-thuc-dau-hieu-bai-tap-co-dap-an-chi-tiet_mt1544142373.html
+- Nói về khả năng của ai đó:
+  - She plays basketball very well.
 
+## 4. References (Tham khảo)
+- https://dictionary.cambridge.org/grammar/british-grammar/tenses-and-time
+- https://ielts-fighter.com/tin-tuc/HIEN-TAI-DON-Present-Simple-Cong-thuc-dau-hieu-bai-tap-co-dap-an-chi-tiet_mt1544142373.html
+- https://dictionary.cambridge.org/grammar/british-grammar/present-simple-i-work

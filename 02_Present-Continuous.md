@@ -14,7 +14,7 @@
 
 - Quy tắc gấp đôi phụ âm rồi mới thêm ing:
 
-+, Nếu động từ có 1 âm tiết kết thúc bằng một phụ âm (trừ h, w, x, y), đi trước là một nguyên âm ta gấp đôi phụ âm trước khi thêm “ing. (stop – stopping; run – running)
++ Nếu động từ có 1 âm tiết kết thúc bằng một phụ âm (trừ h, w, x, y), đi trước là một nguyên âm ta gấp đôi phụ âm trước khi thêm “ing. (stop – stopping; run – running)
 
 +, Với động từ hai âm tiết trở lên, nếu trọng âm nhấn vào âm cuối thì mới gấp đôi phụ âm. (begin – beginning)
 
