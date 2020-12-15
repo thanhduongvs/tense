@@ -36,14 +36,14 @@
 ## 2. Signal words (Dấu hiệu nhận biết)
 
 ## 3. Use (Sử dụng)
-- Nói về sự thật, chân lý hiển nhiên:
+1. Nói về sự thật, chân lý hiển nhiên:
   - The sun sets in the west.
   - Ten times ten makes one hundred. (10 x 10 = 100)
 
-- Nói về một thói quen lặp đi lặp lại hàng ngày:
+2. Nói về một thói quen lặp đi lặp lại hàng ngày:
   - I alway get up at 6.am.
 
-- Nói về khả năng của ai đó:
+3. Nói về khả năng của ai đó:
   - She plays basketball very well.
 
 ## 4. References (Tham khảo)

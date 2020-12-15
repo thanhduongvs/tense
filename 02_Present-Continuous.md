@@ -38,8 +38,21 @@ Xem video chi tiết nha:
 ### 1.4 Wh- Questions (Câu hỏi Wh):
 - `Wh- + is/are/am (not) + S + V-ing ?`
 
-## 2. Use (Sử dụng)
+## 2. Signal words (Dấu hiệu nhận biết)
 
-## 3. Signal words (Dấu hiệu nhận biết)
+## 3. Use (Sử dụng)
+1. Diễn tả hành động đang xảy ra ở thời điểm nói:
+ - My father is watching TV now
+2. Diễn đạt một hành động đang xảy ra không nhất thiết tại thời điểm nói:
+  - I am reading the book “The thorn bird”.
+3. Diễn đạt một hành động sắp xảy ra trong tương lai gần. Thường diễn tả một kế hoạch đã được lên lịch sẵn:
+  - I am flying to Kyoto tomorrow
+4. Mô tả hành động thường xuyên lặp đi lặp lại gây sự bực mình hay khó chịu cho người nói. Cách dùng này để phàn nàn và được dùng với trạng từ tần suất “always, continually”.
+  -  He is always coming late
+5. Mô tả cái gì đó phát triển hơn, đổi mới hơn
+  - The children are growing quickly.
+6. Diễn tả một cái gì đó mới, đối lập với những gì có trước đó
+  - Most people are using email instead of writing letters.
 
+## 4. References (Tham khảo)
 https://ielts-fighter.com/tin-tuc/HIEN-TAI-TIEP-DIEN-Present-Continuous-Cong-thuc-dau-hieu-va-bai-tap-giai-chi-tiet_mt1544220374.html

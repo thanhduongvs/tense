@@ -28,8 +28,17 @@
 - `Wh- + was/were (not) + S + N/adj ?`
 - `Wh- + did (not) + S + V(infinitive)?`
 
-## 2. Use (Sử dụng)
+## 2. Signal words (Dấu hiệu nhận biết)
 
-## 3. Signal words (Dấu hiệu nhận biết)
+## 3. Use (Sử dụng)
+1. Diễn đạt một hành động xảy hoặc chưa bao giờ xảy ra trong quá khứ:
+  - She visited his parents last weekend
+2. Diễn đạt các hành động xảy ra liên tiếp trong quá khứ:
+  - She came home, switched on the computer and checked her e-mails
+3. Diễn đạt một hành động xen vào một hành động đang diễn ra trong quá khứ:
+  - When I was cooking, my parents came
+4. Dùng trong câu điều kiện loại II:
+  - If I had a million USD, I would buy that car
 
-https://ielts-fighter.com/tin-tuc/Qua-khu-don-Past-simple-Tat-tan-kien-thuc-va-bai-tap-co-dap-an_mt1545087179.html
+## 4. References (Tham khảo)
+- https://ielts-fighter.com/tin-tuc/Qua-khu-don-Past-simple-Tat-tan-kien-thuc-va-bai-tap-co-dap-an_mt1545087179.html

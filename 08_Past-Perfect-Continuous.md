@@ -16,6 +16,12 @@
 ### 1.4 Wh- Questions (Câu hỏi Wh):
 - `Wh- + had (not) + S + been + V-ing ?`
 
-## 2. Use (Sử dụng)
+## 2. Signal words (Dấu hiệu nhận biết)
 
-## 3. Signal words (Dấu hiệu nhận biết)
+## 3. Use (Sử dụng)
+1. Diễn đạt một hành động xảy ra kéo dài trước một hành động khác trong Quá khứ (nhấn mạnh tính tiếp diễn)
+  - I had been thinking about that before you mentioned it
+2. Diễn đạt một hành động kéo dài liên tục trước một thời điểm xác định trong quá khứ.
+  - We had been making chicken soup 2 hours before 10:00 last night, so when I came, the room was still hot and steamy.
+
+## 4. References (Tham khảo)
